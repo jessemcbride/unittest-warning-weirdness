@@ -1,6 +1,6 @@
 # Python 3.3 Unittest Weirdness
 
-Run unittest in Python 3.3:
+Run unittest in Python 3.3 / Python 3.2:
 
 ```
 (3.3.6env) jesse:unittest-weirdness jesse$ python --version
